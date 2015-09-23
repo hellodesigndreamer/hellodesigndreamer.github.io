@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: About Me
+  url: /about/
+
+- title: Blog Posts
+  url: /posts/
+
+- title: UOW
+  url: http://www.uow.edu.au
