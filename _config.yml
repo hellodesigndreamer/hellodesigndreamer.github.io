@@ -1,32 +1,32 @@
 # Site settings
-title: 刘彦玮的技术博客
+title: Jamie Zhang's design blog
 email: coolnameismy@hotmail.com
-description: > #刘彦玮的技术博客
+description: > #Jamie Zhang's design blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://liuyanwei.jumppo.com" # the base hostname & protocol for your site
-twitter_username: coolnameismy@hotmail.com
-github_username:  coolnameismy
+twitter_username: littlejzhang@qq.com
+github_username:  jamiejiezhang
 
 # Build settings
 #markdown: kramdown
-permalink: /:year/:month/:day/:title.html   #博文的固定链接
-paginate: 10                                #分页时每页博文数量
-author:                                     #自定义常亮
-  name: 刘彦玮
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+author:
+  name: Jamie Zhang 张婕
   email: coolnameismy@hotmail.com
   link: http://liuyanwei.jumppo.com/
   weibo: http://weibo.com/1897719834
   github: http://github.com/coolnameismy
-title: 刘彦玮的技术博客                             #自定义常量
+title: Jamie Zhang's design blog
 
 # avatar头像及Favicon
 avatar: https://avatars1.githubusercontent.com/u/5010799?v=3&amp;s=460
 #favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 locals:                                     #自定义常量
-  tags: 标签
-  about: 关于
-active: 技术                                 #自定义常量
+  tags: Tags
+  about: About
+active: Design                                 #自定义常量
 subscribe_rss: /pages/atom.xml              #订阅地址
 markdown: redcarpet                         #markdown解释器
 
@@ -36,6 +36,6 @@ markdown: redcarpet                         #markdown解释器
 #  url:
 #
 
-# disqus 设置
+# disqus settings
 disqus:
   shortname: coolnameismy
