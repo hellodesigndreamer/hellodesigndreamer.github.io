@@ -1,6 +1,6 @@
 # Site settings
 title: Jamie Zhang's design blog
-email: coolnameismy@hotmail.com
+email: jz651@uowmail.edu.au
 description: > #Jamie Zhang's design blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://liuyanwei.jumppo.com" # the base hostname & protocol for your site
@@ -13,24 +13,24 @@ permalink: /:year/:month/:day/:title.html
 paginate: 10
 author:
   name: Jamie Zhang 张婕
-  email: coolnameismy@hotmail.com
-  link: http://liuyanwei.jumppo.com/
-  weibo: http://weibo.com/1897719834
-  github: http://github.com/coolnameismy
+  email: jz651@uowmail.edu.au
+  link: http://www.jamiejiezhang.com/
+  weibo: http://weibo.com/
+  github: http://github.com/jamiejiezhang
 title: Jamie Zhang's design blog
 
-# avatar头像及Favicon
-avatar: https://avatars1.githubusercontent.com/u/5010799?v=3&amp;s=460
+# avatar & Favicon
+avatar: http://i847.photobucket.com/albums/ab31/yangxia/head_zps1fcntvud.jpg&amp;s=460
 #favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
-locals:                                     #自定义常量
+locals:
   tags: Tags
   about: About
-active: Design                                 #自定义常量
-subscribe_rss: /pages/atom.xml              #订阅地址
-markdown: redcarpet                         #markdown解释器
+active: Design
+subscribe_rss: /pages/atom.xml
+markdown: redcarpet
 
-# google analytics 设置
+# google analytics setting
 #ga:
 #  id:
 #  url:
@@ -38,4 +38,4 @@ markdown: redcarpet                         #markdown解释器
 
 # disqus settings
 disqus:
-  shortname: coolnameismy
+  shortname: yang_xia
