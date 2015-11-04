@@ -7,7 +7,7 @@ categories: posts
 ---
 
 ## Hand Sketching
-![MacDown logo](http://s847.photobucket.com/user/yangxia/media/Hello%20Design%20Dreamer/IMG_0940%20copy_zpsfmuru6ng.jpg)
+![MacDown logo](http://i464.photobucket.com/albums/rr7/JamieZhang/hand%20sketching/_zpsuya3tne8.jpg)
 
 ![MacDown logo](http://i847.photobucket.com/albums/ab31/yangxia/Hello%20Design%20Dreamer/IMG_0977%20copy_zpseskdapai.jpg)
 
