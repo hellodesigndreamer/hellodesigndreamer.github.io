@@ -2,7 +2,7 @@
 layout: post
 title: Hand sketching on shoes
 cover: cover.jpg
-date:   2015-11-04 14:15:00
+date:   2015-10-04 14:15:00
 categories: posts
 ---
 
