@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Portrait sketch from my classmates and friends
+title: Hand sketching
 cover: cover.jpg
 date:   2015-09-15 14:15:00
 categories: posts
 ---
 
-## Portrait
+## Hand Sketching
 ![MacDown logo](http://s464.photobucket.com/user/JamieZhang/media/hand%20sketching/_zpsuya3tne8.jpg)
 
 ![MacDown logo](http://i847.photobucket.com/albums/ab31/yangxia/Hello%20Design%20Dreamer/IMG_0977%20copy_zpseskdapai.jpg)
