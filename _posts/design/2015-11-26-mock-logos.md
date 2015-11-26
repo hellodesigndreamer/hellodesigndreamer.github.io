@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Portrait sketch from my friends
+title: Mock Logos
 cover: cover.jpg
-date:   2015-09-15 14:15:00
+date:   2015-11-26 22:24:00
 categories: posts
 ---
 
